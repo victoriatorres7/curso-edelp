@@ -1,0 +1,67 @@
+.bg-fondo{
+  background-color: #DE1D22;
+}
+#club{
+color: #FFFFFF;
+
+}
+#futbol{
+color: #FFFFFF;
+}
+#deportes{
+  color: #FFFFFF;
+}
+#estadio{
+  color: #FFFFFF;
+}
+#socios{
+  color: #FFFFFF;
+}
+#container-2{
+  margin-top:40px;
+  padding: 5px;
+
+}
+#container-3{
+  height: inherit;
+  width: inherit;
+  margin-top: 50px;
+  background-color: #000000;
+  padding: 10px;
+
+}
+#p-1{
+  color: #FFFFFF;
+}
+.container,.item{
+  height: 100%
+}
+.container,.inner{
+  height: 100%;
+}
+
+#facebook{
+  margin: 4px;
+  color: #C0C0C0;
+  margin-left: 20px;
+}
+#twitter{
+  margin: 4px;
+  color: #C0C0C0;
+}
+
+#instagram{
+  margin: 4px;
+  color: #C0C0C0;
+}
+
+#youtube{
+  margin: 4px;
+  color: #C0C0C0;
+}
+h6{
+  margin-left: 20px;
+}
+.foto-tienda{
+  margin-right: 20px;
+}
